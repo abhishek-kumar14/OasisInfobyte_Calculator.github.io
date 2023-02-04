@@ -6,7 +6,7 @@
   }
   body {
     height: 100vh;
-    background: linear-gradient(to bottom, #000000 50%, #090c31 50%);
+    background: linear-gradient(to bottom, #9af94c 50%, #090c31 50%);
   }
   .calculator {
     width: 400px;
